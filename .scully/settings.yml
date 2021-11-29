@@ -1,0 +1,11 @@
+identifier: kaw5f68bz9o09dua
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular.io-example
+homeFolder: D:\Work\Sperse\Angular.Test\Test-App
+distFolder: dist/angular
+outDir: D:\Work\Sperse\Angular.Test\Test-App\Static-Site
+handle404: ''
+allowErrorCollect: false
